@@ -1,5 +1,4 @@
 🐾 CaitlynCarney 🐾
-
 ![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/header/Retro.gif?raw=true)
 
 # About Me
@@ -22,8 +21,7 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 | [Twitter](https://twitter.com/Caitlyn_R_C) | 
 
 | <a href="caitlyn.r.carney@gmail.com">Email Me</a> | 
-    
-    </details>
+</details>
 
 
 
