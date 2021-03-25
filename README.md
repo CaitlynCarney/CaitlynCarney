@@ -30,4 +30,4 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 
 
 
-![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/banner/github-quote-banner.gif?raw=true)
+![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/end-banner/creatice-quote-banner.gif?raw=true)
