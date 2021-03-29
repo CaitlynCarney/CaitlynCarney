@@ -1,5 +1,5 @@
 🐾 CaitlynCarney 🐾
-![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/header/Retro.gif?raw=true)
+![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/header/Retro.png?raw=true)
 
 # About Me
 <details>
@@ -30,4 +30,4 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 
 
 
-![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/end-banner/creatice-quote-banner.gif?raw=true)
+![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/end-banner/failure-quote.png?raw=true)
