@@ -1,6 +1,6 @@
 🐾 CaitlynCarney 🐾
 
-![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/header/Retro.png?raw=true)
+![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/header/geometric.gif?raw=true)
 
 # About Me
 <details>
@@ -23,12 +23,3 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 
 | <a href="caitlyn.r.carney@gmail.com">Email Me</a> | 
 </details>
-
-
-
-
-
-
-
-
-![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/end-banner/failure-quote.png?raw=true)
