@@ -21,5 +21,7 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 
 | [Twitter](https://twitter.com/Caitlyn_R_C) | 
 
-| <a href="caitlyn.r.carney@gmail.com">Email Me</a> | 
+| Email Me at caitlyn.r.carney@gmail.com | 
 </details>
+
+![alt text](https://github.com/CaitlynCarney/CaitlynCarney/blob/master/end-banner/skills.gif?raw=true)
