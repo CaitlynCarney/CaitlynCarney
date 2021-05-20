@@ -17,10 +17,11 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
 <details>
   <summary>Click to expand!</summary>
 
+<span style="background-color: lightblue">To be directed to each projects repository please click on the project name you wish to see. I hope you enjoy yourself!</span>
+
 ### [Predicting Coding Languages:](https://github.com/CaitlynCarney/coding_language_prediction)
 I used GitHub’s API and python’s BeautifulSoup to acquire verbiage from over 100 different "Doctor Who" inspired README files on GitHub. I used Natural Language Processing Techniques to prepare my text data for exploration and create a model to predict the repository language based on my text-based features. After exploring words, word combination, and their repetition I created a variety of models; finding that the SGD classifier model out performed all the others. This model beat my baseline accuracy of 39.5% by 14.3%, with an overall accuracy of 43.8%.
-
-    
+  
 ### [Predicting Video Game Success:](https://github.com/CaitlynCarney/video_game_sales)
 I used a video game sales dataset, narrowing my subset to games which have sold 100,000 copies or more, to discover drivers for the success of a game. In my exploratory analysis, I used chi-square testing to identify features that might be drivers and found three that aided my Ridge Classifier model in predicting successful games. These drivers consisted of the games primary genre, release year, and primary gaming platform.
     
