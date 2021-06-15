@@ -6,9 +6,9 @@
 <details>
   <summary>Click to expand!</summary>
 
-Greetings! My name is Caitlyn Carney, and I am currently a student at Codeup in their data-science program. I previously worked for Marriott International as a "Data Specialist". From there I returned to school and recieved an associates in science and my associates in art before coming to Codeup. So you can come to a reasonable hypothesis that data is my life! 
+Greetings! My name is Caitlyn Carney, and I am Data Science Alumni from Codeup. I previously worked for Marriott International as a "Data Specialist". From there I returned to school and recieved an associates in science and my associates in art before going to Codeup. So you can come to a reasonable hypothesis that data is my life! 
 
-I am really enjoying learning everything I can in data science! However, I am definitely drawn to the visual side of it! I find myself playing in seaborn, matplotlib, and starting to play in Tableau a lot! I also really enjoy makig presentations to really catch and keep the audiences attention! My other favorite thing I have so far learned is cleaning data, I don't know what it is but it is very theraputic to sit down and make data easy to read and understand.
+When it comes to data science I enjoy myself immensely! I am definitely drawn to the visual side of it, I find myself playing in seaborn, matplotlib, and starting to play in Tableau a lot! I also really enjoy telling the stories the data contains and presenting them to really catch and keep the audiences attention! Another one of my favorite things is cleaning data, I don't know what it is but it is very theraputic to sit down and make data easy to read and understand. I am constantly trying to better myself and grow as a data scientist. 
 
 On my free time I enjoy relaxing with a nice book, playing some games on my pc, and playing with my dogs (my husky puppy, April, can steal the heart of any human! 🐺 ❤️🐾). 
 </details>
@@ -18,9 +18,11 @@ On my free time I enjoy relaxing with a nice book, playing some games on my pc, 
   <summary>Click to expand!</summary>
 
 <span style="background-color: lightblue">To be directed to each projects repository please click on the project name you wish to see. I hope you enjoy yourself!</span>
+    
+### [Predicting 311 Call Delays:](https://github.com/3-1-1-Codeup/project)
 
 ### [Predicting Coding Languages:](https://github.com/CaitlynCarney/coding_language_prediction)
-I used GitHub’s API and python’s BeautifulSoup to acquire verbiage from over 100 different "Doctor Who" inspired README files on GitHub. I used Natural Language Processing Techniques to prepare my text data for exploration and create a model to predict the repository language based on my text-based features. After exploring words, word combination, and their repetition I created a variety of models; finding that the SGD classifier model out performed all the others. This model beat my baseline accuracy of 39.5% by 14.3%, with an overall accuracy of 43.8%.
+Using data acquired from the City of San Antonio my team and I aimed to create a classification model to predict the level of delay in a 311 calls response time. We took in features such as council district code, zip code, department issued the case, category of the case, how the case was reported, and more to achieve this. From this project we answered what drives the level of delay and recommended ways to minimize late response for 3-1-1 calls in our city.
   
 ### [Predicting Video Game Success:](https://github.com/CaitlynCarney/video_game_sales)
 I used a video game sales dataset, narrowing my subset to games which have sold 100,000 copies or more, to discover drivers for the success of a game. In my exploratory analysis, I used chi-square testing to identify features that might be drivers and found three that aided my Ridge Classifier model in predicting successful games. These drivers consisted of the games primary genre, release year, and primary gaming platform.
