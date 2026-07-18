@@ -6,11 +6,11 @@
 <details>
   <summary>Click to expand!</summary>
 
-Greetings! My name is Caitlyn Carney, and I am Data Science Alumni from Codeup. I previously worked for Marriott International as a "Data Specialist". From there I returned to school and recieved an associates in science and my associates in art before going to Codeup. So you can come to a reasonable hypothesis that data is my life! 
+Hi, I'm Caitlyn! I'm a Codeup Data Science alumna with training in Data Science, Data Engineering, and Data Analytics. My professional experience has been in Data Analytics, where I've worked with SQL, Python, Tableau, and cloud data platforms to transform complex data into actionable insights.
 
-When it comes to data science I enjoy myself immensely! I am definitely drawn to the visual side of it, I find myself playing in seaborn, matplotlib, and starting to play in Tableau a lot! I also really enjoy telling the stories the data contains and presenting them to really catch and keep the audiences attention! Another one of my favorite things is cleaning data, I don't know what it is but it is very theraputic to sit down and make data easy to read and understand. I am constantly trying to better myself and grow as a data scientist. 
+What draws me to data science is the challenge of uncovering meaningful patterns and turning them into solutions. I enjoy working across the entire data lifecycle, from cleaning and engineering data to building visualizations and communicating the story behind the numbers. I'm continually expanding my knowledge of data science, exploring new techniques, and building projects that strengthen both my analytical and machine learning skill sets.
 
-On my free time I enjoy relaxing with a nice book, playing some games on my pc, and playing with my dogs (my husky puppy, April, can steal the heart of any human! 🐺 ❤️🐾). 
+I believe the best data professionals never stop learning. Whether I'm experimenting with new technologies, tackling a challenging dataset, or refining an existing solution, I'm always looking for opportunities to grow. Outside of work, you'll usually find me reading fantasy novels, working on creative projects, gaming on my PC, or spending time with my dogs.
 </details>
 
 # Learn About My Projects
@@ -44,8 +44,6 @@ With the goal to find the primary drivers of customer churn within a hypothetica
   <summary>Click to expand!</summary>
 
 | [LinkedIn](https://www.linkedin.com/in/caitlyn-carney-a29b241aa/) |  
-
-| [Twitter](https://twitter.com/Caitlyn_R_C) | 
 
 | Email Me at caitlyn.r.carney@gmail.com | 
 </details>
